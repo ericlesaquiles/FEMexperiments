@@ -1,0 +1,4 @@
+/tmp/tmp2loinssd/dolfin_expression_65d4538aa277fc36e68ea07969b0c97f.cpp: In member function ‘virtual void dolfin::dolfin_expression_65d4538aa277fc36e68ea07969b0c97f::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmp2loinssd/dolfin_expression_65d4538aa277fc36e68ea07969b0c97f.cpp:62:27: error: invalid operands of types ‘double’ and ‘double’ to binary ‘operator^’
+           values[0] = 8*pi^2*cos(2*pi*x[0])*cos(2*pi*x[1]);
+                       ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
